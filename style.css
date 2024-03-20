@@ -91,6 +91,7 @@ a {
   width: 534px;
   font-size: 20px;
   border:none;
+  border-radius: 1%;
 }
 :root {
   --surface-color-hover: #7a7a7a;
